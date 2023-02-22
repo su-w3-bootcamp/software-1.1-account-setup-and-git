@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Account Setup and Git Basics
 
 ## Dependencies
 
@@ -10,11 +10,15 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What makes for a good programmer
+- What programming languages are and what they are used for
+- How to install the necessary tools needed for a software development environment
+- What Git is and how it works
 
 Learners will be able to:
-- Insert the skillset to be acquired
-
+- Install the necessary tools needed for a software development environment
+- Navigate through the file system using bash commands
+- Fork, Clone, and Push changes to remote repositories
 
 ## Lesson Plan
 

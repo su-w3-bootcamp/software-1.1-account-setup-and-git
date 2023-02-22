@@ -2,7 +2,7 @@
 
 ### Brief
 
-Enter instruction for assignment here.
+No assignment for Lesson 1.1
 
 ### Submission 
 
@@ -11,10 +11,11 @@ Enter instruction for assignment here.
 
 ### References
 
-_Example of Referencing Classmate_
+_Example of Referencing Work_
 
 Referenced the code block below.
 ```js
+    //This code was reference from <source>
     function printMe(){
         console.log("I am a reference example");
     }
